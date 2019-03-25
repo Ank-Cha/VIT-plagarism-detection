@@ -14,10 +14,11 @@ if(mysqli_num_rows($reg_login)>0)
     echo '<form name="continue" action="form_display.php" method="post">';
     echo '<input type="submit" value="Continue">';
     echo '</form>';
-    $file = fopen("T_login.txt", 'w'); 
+    $file = fopen("T_login.txt", 'w');
 fwrite($file, $Tno);
 }
 else
 {
     echo "Login error: Please make sure you are registered with the entered username and password";
 }
+?>
