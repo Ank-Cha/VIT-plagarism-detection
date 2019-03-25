@@ -1,0 +1,162 @@
+Page semi-protected
+Plant
+Superdivisions
+Chlorokybophyta
+Mesostigmatophyta
+Spirotaenia
+Chlorobionta Kenrick & Crane 1997
+Chlorophyta
+Streptobionta Kenrick & Crane 1997
+Klebsormidiophyceae
+Charophyta (stoneworts)
+ ?Chaetosphaeridiales
+Coleochaetophyta
+Zygnematophyta
+Embryobiotes Kenrick & Crane 1997 (land plants)
+Marchantiophyta (liverworts)
+Bryophyta (mosses)
+Anthocerotophyta (hornworts)
+†Horneophyta
+†Aglaophyta
+Tracheophyta (vascular plants)
+Synonyms
+Plants are mainly multicellular, predominantly photosynthetic eukaryotes of the kingdom Plantae. They form the clade Viridiplantae (Latin name for "green plants") that includes the flowering plants, conifers and other gymnosperms, ferns and their allies, hornworts, liverworts, mosses and the green algae, and excludes the red and brown algae. Historically, plants were treated as one of two kingdoms including all living things that were not animals, and all algae and fungi were treated as plants. However, all current definitions of Plantae exclude the fungi and some algae, as well as the prokaryotes (the archaea and bacteria).
+
+Green plants obtain most of their energy from sunlight via photosynthesis by primary chloroplasts that are derived from endosymbiosis with cyanobacteria. Their chloroplasts contain chlorophylls a and b, which gives them their green color. Some plants are parasitic or mycotrophic and may lose the ability to produce normal amounts of chlorophyll or to photosynthesize. Plants are characterized by sexual reproduction and alternation of generations, although asexual reproduction is also common.
+
+There are about 320 thousand species of plants, of which the great majority, some 260–290 thousand, are seed plants (see the table below).[5] Green plants provide a substantial proportion of the world's molecular oxygen[6] and are the basis of most of Earth's ecosystems, especially on land. Plants that produce grain, fruit and vegetables form humankind's basic foodstuffs, and have been domesticated for millennia. Plants have many cultural and other uses as ornaments, building materials, writing material and in great variety, they have been the source of medicines and drugs. The scientific study of plants is known as botany, a branch of biology.
+
+
+Contents
+1	Definition
+1.1	Current definitions of Plantae
+1.2	Algae
+1.3	Fungi
+2	Diversity
+2.1	Evolution
+2.2	Embryophytes
+2.3	Fossils
+3	Structure, growth and development
+3.1	Factors affecting growth
+3.1.1	Effects of freezing
+3.2	DNA damage and repair
+3.3	Plant cells
+4	Physiology
+4.1	Photosynthesis
+4.2	Immune system
+4.3	Internal distribution
+5	Genomics
+6	Ecology
+6.1	Distribution
+6.2	Ecological relationships
+7	Importance
+7.1	Food
+7.2	Medicines
+7.3	Nonfood products
+7.4	Aesthetic uses
+7.5	Scientific and cultural uses
+7.6	Negative effects
+8	See also
+9	References
+10	Further reading
+11	External links
+Definition
+All living things were traditionally placed into one of two groups, plants and animals. This classification may date from Aristotle (384 BC – 322 BC), who made the distincton between plants, which generally do not move, and animals, which often are mobile to catch their food. Much later, when Linnaeus (1707–1778) created the basis of the modern system of scientific classification, these two groups became the kingdoms Vegetabilia (later Metaphyta or Plantae) and Animalia (also called Metazoa). Since then, it has become clear that the plant kingdom as originally defined included several unrelated groups, and the fungi and several groups of algae were removed to new kingdoms. However, these organisms are still often considered plants, particularly in popular contexts.
+
+The term "plant" generally implies the possession of the following traits: multicellularity, possession of cell walls containing cellulose and the ability to carry out photosynthesis with primary chloroplasts.[7][8]
+
+Current definitions of Plantae
+When the name Plantae or plant is applied to a specific group of organisms or taxon, it usually refers to one of four concepts. From least to most inclusive, these four groupings are:
+
+Name(s)	Scope	Description
+Land plants, also known as Embryophyta	Plantae sensu strictissimo	Plants in the strictest sense include the liverworts, hornworts, mosses, and vascular plants, as well as fossil plants similar to these surviving groups (e.g., Metaphyta Whittaker, 1969,[9] Plantae Margulis, 1971[10]).
+Green plants, also known as Viridiplantae, Viridiphyta or Chlorobionta	Plantae sensu stricto	Plants in a strict sense include the green algae, and land plants that emerged within them, including stoneworts. The names given to these groups vary considerably as of July 2011. Viridiplantae encompass a group of organisms that have cellulose in their cell walls, possess chlorophylls a and b and have plastids that are bound by only two membranes that are capable of storing starch. It is this clade that is mainly the subject of this article (e.g., Plantae Copeland, 1956[11]).
+Archaeplastida, also known as Plastida or Primoplantae	Plantae sensu lato	Plants in a broad sense comprise the green plants listed above plus the red algae (Rhodophyta) and the glaucophyte algae (Glaucophyta that store Floridean starch outside the plastids (in the cytoplasm). This clade includes all of the organisms that eons ago acquired their chloroplasts directly by engulfing cyanobacteria (e.g., Plantae Cavalier-Smith, 1981[12]).
+Old definitions of plant (obsolete)	Plantae sensu amplo	Plants in the widest sense refers to older, obsolete classifications that placed diverse algae, fungi or bacteria in Plantae (e.g., Plantae or Vegetabilia Linnaeus,[13] Plantae Haeckel 1866,[14] Metaphyta Haeckel, 1894,[15] Plantae Whittaker, 1969[9]).
+Another way of looking at the relationships between the different groups that have been called "plants" is through a cladogram, which shows their evolutionary relationships. These are not yet completely settled, but one accepted relationship between the three groups described above is shown below[clarification needed].[16][17][18][19][20][21] Those which have been called "plants" are in bold.
+
+Archaeplastida 	
+?	
+Rhodophyta (red algae)  
+
+?
+?	
+?	
+Glaucophyta (glaucophyte algae)  
+
+?
+Green plants/Green algae	
+?	
+?	
+Mesostigmatophyceae  
+
+?
+?	
+?	
+Chlorokybophyceae  
+
+?
+?	
+Spirotaenia  
+
+?
+?
+?
+?	
+?	
+Chlorophyta  
+
+?
+Streptophyta	
+?	
+   
+
+?
+?	
+?	
+Charales (stoneworts)  
+
+?
+?	
+?	
+   
+
+?
+?	
+land plants or embryophytes
+
+?
+?
+?
+?
+?
+?
+?
+?
+groups traditionally
+included in the "algae"
+The way in which the groups of green algae are combined and named varies considerably between authors.
+
+Algae
+
+Green algae from Ernst Haeckel's Kunstformen der Natur, 1904.
+Main article: Algae
+Algae comprise several different groups of organisms which produce food by photosynthesis and thus have traditionally been included in the plant kingdom. The seaweeds range from large multicellular algae to single-celled organisms and are classified into three groups, the brown, red and green algae. There is good evidence that the brown algae evolved independently from the others, from non-photosynthetic ancestors that formed endosymbiotic relationships with red algae rather than from cyanobacteria, and they are no longer classified as plants as defined here.[22][23]
+
+The Viridiplantae, the green plants – green algae and land plants – form a clade, a group consisting of all the descendants of a common ancestor. With a few exceptions, the green plants have the following features in common; primary chloroplasts derived from cyanobacteria containing chlorophylls a and b, cell walls containing cellulose, and food stores in the form of starch contained within the plastids. They undergo closed mitosis without centrioles, and typically have mitochondria with flat cristae. The chloroplasts of green plants are surrounded by two membranes, suggesting they originated directly from endosymbiotic cyanobacteria.
+
+Two additional groups, the Rhodophyta (red algae) and Glaucophyta (glaucophyte algae), also have primary chloroplasts that appear to be derived directly from endosymbiotic cyanobacteria, although they differ from Viridiplantae in the pigments which are used in photosynthesis and so are different in colour. These groups also differ from green plants in that the storage polysaccharide is floridean starch and is stored in the cytoplasm rather than in the plastids. They appear to have had a common origin with Viridiplantae and the three groups form the clade Archaeplastida, whose name implies that their chloroplasts were derived from a single ancient endosymbiotic event. This is the broadest modern definition of the term 'plant'.
+
+In contrast, most other algae (e.g. brown algae/diatoms, haptophytes, dinoflagellates, and euglenids) not only have different pigments but also have chloroplasts with three or four surrounding membranes. They are not close relatives of the Archaeplastida, presumably having acquired chloroplasts separately from ingested or symbiotic green and red algae. They are thus not included in even the broadest modern definition of the plant kingdom, although they were in the past.
+
+The green plants or Viridiplantae were traditionally divided into the green algae (including the stoneworts) and the land plants. However, it is now known that the land plants evolved from within a group of green algae, so that the green algae by themselves are a paraphyletic group, i.e. a group that excludes some of the descendants of a common ancestor. Paraphyletic groups are generally avoided in modern classifications, so that in recent treatments the Viridiplantae have been divided into two clades, the Chlorophyta and the Streptophyta (including the land plants and Charophyta).[24][25]
+
+The Chlorophyta (a name that has also been used for all green algae) are the sister group to the Charophytes, from which the land plants evolved. There are about 4,300 species,[26] mainly unicellular or multicellular marine organisms such as the sea lettuce, Ulva.
+
+The other group within the Viridiplantae are the mainly freshwater or terrestrial Streptophyta, which consists of the land plants together with the Charophyta, itself consisting of several groups of green algae such as the desmids and stoneworts. Streptophyte algae are either unicellular or form multicellular filaments, branched or unbranched.[25] The genus Spirogyra is a filamentous streptophyte alga familiar to many, as it is often used in teaching and is one of the organisms responsible for the algal "scum" on ponds. The freshwater stoneworts strongly resemble land plants and are believed to be their closest relatives.[citation needed] Growing immersed in fresh water, they consist of a central stalk with whorls of branchlets.
+
+Fungi
+Main article: Fungi
+Linnaeus' original classification placed the fungi within the Plantae, since they were unquestionably neither animals or minerals and these were the only other alternatives. With 19th century developments in microbiology, Ernst Haeckel introduced the new kingdom Protista in addition to Plantae and Animalia, but whether fungi were best placed in the Plantae or should be reclassified as protists remained controversial. In 1969, Robert Whittaker proposed the creation of the kingdom Fungi. Molecular evidence has since shown that the most recent common ancestor (concestor), of the Fungi was probably more similar to that of the Animalia than to that of Plantae or any other kingdom.[27]
+
+Whittaker's original reclassification was based on the fundamental difference in nutrition between the Fungi and the Plantae. Unlike plants, which generally gain carbon through photosynthesis, and so are called autotrophs, fungi do not possess chloroplasts and generally obtain carbon by breaking down and absorbing surrounding materials, and so are called heterotrophic saprotrophs. In addition, the substructure of multicellular fungi is different from that of plants, taking the form of many chitinous microscopic strands called hyphae, which may be further subdivided into cells or may form a syncytium containing many eukaryotic nuclei. Fruiting bodies, of which mushrooms are the most familiar example, are the reproductive structures of fungi, and are unlike any structures produced by plants.[citation needed]
